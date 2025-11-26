@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Long Division Simulator",
+  "description": "An interactive web application that visually animates the long-division algorithm, supporting decimal expansion and detection of repeating decimals. It features a mascot narrator, step-by-step controls, and customizable problems to help students learn division.",
+  "requestFramePermissions": []
+}
